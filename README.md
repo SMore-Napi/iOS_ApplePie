@@ -13,3 +13,17 @@ Besides the tutorial from the book, it also has implemented stretch goals:
 - Allow the player to guess the full word using the keyboard instead of guessing one letter at a time using the interface buttons.
 - Support letters with special characters. For example, the E button could check for “e” and “é” within a word.
 - The keyboard layout doesn’t work well when the app is in one-third Split View mode on iPad—the buttons get flattened. To resolve this issue, use trait variations to adjust the layout when in compact width.
+
+<p float="left">
+<img width="500" src="https://user-images.githubusercontent.com/49106163/152359319-062adbc1-bea2-4303-a09d-dfe8ce069cd8.png"/>
+</p>
+
+<p float="left">
+<img width="500" src="https://user-images.githubusercontent.com/49106163/152359363-04888626-f15f-4e1c-9212-09d2b1802412.png"/>
+<img width="500" src="https://user-images.githubusercontent.com/49106163/152359406-8c86b05b-ab61-481d-8065-d1ab22e83abe.png"/>
+</p>
+
+<p float="left">
+<img width="500" src="https://user-images.githubusercontent.com/49106163/152359428-3fb73427-181a-4e61-bebe-af43e010e5a4.png"/>
+<img width="500" src="https://user-images.githubusercontent.com/49106163/152359459-bbc5afee-7122-4ec0-b3e1-1a24a6e8b602.png"/>
+</p>
